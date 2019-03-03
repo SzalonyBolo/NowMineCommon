@@ -1,0 +1,9 @@
+C:\NowMineProjects\NowMineCommon\bin\Debug\netstandard1.3\NowMineCommon.deps.json
+C:\NowMineProjects\NowMineCommon\bin\Debug\netstandard1.3\NowMineCommon.dll
+C:\NowMineProjects\NowMineCommon\bin\Debug\netstandard1.3\NowMineCommon.pdb
+C:\NowMineProjects\NowMineCommon\obj\Debug\netstandard1.3\NowMineCommon.csproj.CoreCompileInputs.cache
+C:\NowMineProjects\NowMineCommon\obj\Debug\netstandard1.3\NowMineCommon.AssemblyInfoInputs.cache
+C:\NowMineProjects\NowMineCommon\obj\Debug\netstandard1.3\NowMineCommon.AssemblyInfo.cs
+C:\NowMineProjects\NowMineCommon\obj\Debug\netstandard1.3\NowMineCommon.dll
+C:\NowMineProjects\NowMineCommon\obj\Debug\netstandard1.3\NowMineCommon.pdb
+C:\NowMineProjects\NowMineCommon\obj\Debug\netstandard1.3\NowMineCommon.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\bin\Debug\netstandard2.0\NowMineCommon.deps.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\bin\Debug\netstandard2.0\NowMineCommon.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\bin\Debug\netstandard2.0\NowMineCommon.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Debug\netstandard2.0\NowMineCommon.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Debug\netstandard2.0\NowMineCommon.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Debug\netstandard2.0\NowMineCommon.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Debug\netstandard2.0\NowMineCommon.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Debug\netstandard2.0\NowMineCommon.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Debug\netstandard2.0\NowMineCommon.pdb

@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\bin\Release\netstandard1.0\NowMineCommon.deps.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\bin\Release\netstandard1.0\NowMineCommon.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\bin\Release\netstandard1.0\NowMineCommon.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.pdb
+C:\NowMineProjects\NowMineCommon\bin\Release\netstandard1.0\NowMineCommon.deps.json
+C:\NowMineProjects\NowMineCommon\bin\Release\netstandard1.0\NowMineCommon.dll
+C:\NowMineProjects\NowMineCommon\bin\Release\netstandard1.0\NowMineCommon.pdb
+C:\NowMineProjects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.csproj.CoreCompileInputs.cache
+C:\NowMineProjects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.AssemblyInfoInputs.cache
+C:\NowMineProjects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.AssemblyInfo.cs
+C:\NowMineProjects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.dll
+C:\NowMineProjects\NowMineCommon\obj\Release\netstandard1.0\NowMineCommon.pdb
